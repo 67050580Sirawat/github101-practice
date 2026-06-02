@@ -22,7 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
-| SIRAWAT SIRISAWAT | Team 06 | Hacker | [67050580-Sirawat.md](docs/evidence/67050580-Sirawat.md) | [67050580-issue.md](docs/evidence/67050580-issue.md) |
+| SIRAWAT SIRISAWAT | Team 06 | Hacker | [67050580-Sirawat.md](docs/evidence/67050580-Sirawat.md) | [67050580-issue.md](docs/issues/67050580-issue.md) |
 
 ---
 

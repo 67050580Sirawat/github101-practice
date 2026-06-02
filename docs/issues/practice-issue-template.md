@@ -12,12 +12,12 @@
 - [ ] Submit links
 
 ### Evidence
-- README link:
-- Evidence file:
-- Commit link:
+- README link:https://github.com/67050580Sirawat/github101-practice/blob/main/README.md
+- Evidence file:https://github.com/67050580Sirawat/github101-practice/blob/main/docs/evidence/67050580_Sirawat.md
+- Commit link:https://github.com/67050580Sirawat/github101-practice/commits/main/
 
 ### Blocker
-- ไม่มี / มี: ...
+- มีข้อสงสัยในการแก้ไฟล์
 
 ### Need help from
-- Scrum Lead / teammate / TA / อาจารย์
+- ถามอาจารย์
